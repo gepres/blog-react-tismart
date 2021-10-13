@@ -1,0 +1,12 @@
+.blogheader span{
+  font-size: 14px;
+}
+.blogheader-bold{
+  font-weight: 500 !important;
+  font: 16px;
+  color: #000 !important;
+}
+.bloghimage img {
+  width: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,9 @@
+.Logo{
+  text-align: center;
+}
+.Logo a {
+  text-decoration: none;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px; 
+  color:cornflowerblue;
+}

@@ -1,0 +1,30 @@
+.NavBar{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+.NavBar ul {
+  margin: 0;
+  padding: 0;
+}
+
+.NavBar ul li{
+  list-style: none;
+  display: inline-block;
+}
+.NavBar ul li a{
+ text-decoration: none;
+ display: block;
+ font-size: 20px;
+ text-transform: capitalize;
+ font-weight: 400;
+ color:#565674;
+ padding: 0 10px;
+}
+.NavBar form {
+  display: flex;
+  align-items: center
+}
+.NavBar form img{
+  margin-left: 10px;
+}

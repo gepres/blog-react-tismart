@@ -1,0 +1,48 @@
+.SideBar{
+  width: 27%;
+  text-align: center;
+  width: 100%
+}
+
+.cardHeader{
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+  box-sizing: border-box;
+  letter-spacing: 2px;
+  color:#333;
+}
+.cardProfile{
+  width: 100%;
+  box-sizing: border-box;
+}
+.cardProfile img{
+   max-width: 100%;
+   max-height: 100%;
+   margin: 20px;
+}
+.cardBody-p{
+  font-size: 14px;
+  color: #565673;
+  font-weight: 300;
+}
+.recemtPost{
+  padding: 20px 0;
+  text-align: center;
+}
+.recemtPosts a{
+  color:#6c6c6c;
+}
+.recemtPost h3{
+  color:#6c6c6c;
+  letter-spacing: 1px;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.recemtPost span{
+  font-size: 10px;
+  font-weight: 400;
+  color: #6c6c66;
+}
